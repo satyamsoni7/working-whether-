@@ -1,7 +1,4 @@
-/**
- * AetherWeather — Dynamic Canvas Atmospheric Particle Engine
- * 60 FPS Canvas animations for Rain, Thunderstorms, Snow, Clear Night Stars, and Sunny Sunbeams.
- */
+
 
 class WeatherCanvasEngine {
   constructor(canvasId) {
